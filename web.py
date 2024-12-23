@@ -1,7 +1,5 @@
 import streamlit as st
 from PIL import Image
-from infer import infer
-from infer import onnx_infer
 import base64
 st.header("鸟类分类识别系统")
 model_type=st.sidebar.selectbox("请选择你需要使用的模型",["resnet专用模型","resnet_onnx模型","resnet量化int8模型"])
