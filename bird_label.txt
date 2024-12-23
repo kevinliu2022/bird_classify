@@ -1,0 +1,10 @@
+n0   , banjiu
+n1   , cuiniao
+n2   , huixique
+n3   , maque
+
+
+
+
+
+
